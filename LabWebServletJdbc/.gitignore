@@ -1,5 +1,12 @@
 /.settings/
+<<<<<<< HEAD
 /.project
 /.springBeans
 /target/
 /.classpath
+=======
+/.classpath
+/.project
+/.springBeans
+/target/
+>>>>>>> branch 'master' of https://github.com/EEIT92Team02/Repository0324.git
